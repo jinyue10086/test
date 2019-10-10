@@ -1,4 +1,4 @@
 <?php
 
-phpinfo();
+phpinf);
 add_onetime
